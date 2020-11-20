@@ -1,5 +1,5 @@
 # MERN_STACK_Memories_Project
-#Demo
+# Demo
 https://romantic-villani-04377b.netlify.app
-#Server Deployed on Heroku
+# Server Deployed on Heroku
 **PWA of this is in under process**
